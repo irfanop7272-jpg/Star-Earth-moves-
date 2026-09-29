@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Star Earth Moves | Excavator & Heavy Equipment Rental in Gopalganj, Bihar</title>
+    <style>
+        :root {
+            --primary: #ff8c00;
+            --dark: #1a1a1a;
+            --light: #f4f4f4;
+            --text: #333;
+        }
+        * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Segoe UI', sans-serif; }
+        body { background-color: var(--light); color: var(--text); line-height: 1.6; }
+        header { background-color: var(--dark); color: white; padding: 1.5rem 1rem; text-align: center; border-bottom: 4px solid var(--primary); }
+        header h1 { color: var(--primary); font-size: 2.2rem; margin-bottom: 0.2rem; }
+        header p { font-size: 1rem; color: #ccc; }
+        .container { max-width: 1000px; margin: auto; padding: 1.5rem; }
+        .hero { background: #222; color: white; padding: 2.5rem 1rem; border-radius: 8px; text-align: center; margin-bottom: 2rem; }
+        .hero h2 { font-size: 1.8rem; color: var(--primary); margin-bottom: 0.8rem; }
+        .btn-call { display: inline-block; background-color: var(--primary); color: var(--dark); font-weight: bold; padding: 0.8rem 1.8rem; text-decoration: none; border-radius: 5px; font-size: 1.1rem; }
+        .section-title { text-align: center; font-size: 1.6rem; margin-bottom: 1.5rem; color: var(--dark); border-bottom: 2px solid var(--primary); display: inline-block; padding-bottom: 5px; }
+        .section-wrapper { text-align: center; margin-bottom: 2.5rem; }
+        .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem; }
+        .card { background: white; padding: 1.5rem; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.08); border-left: 4px solid var(--primary); }
+        .contact-box { background: white; padding: 2rem; border-radius: 8px; text-align: center; }
+        .whatsapp-float { position: fixed; bottom: 20px; right: 20px; background-color: #25d366; color: white; padding: 12px 20px; border-radius: 50px; text-decoration: none; font-weight: bold; box-shadow: 0 4px 10px rgba(0,0,0,0.3); }
+        footer { background: var(--dark); color: #aaa; text-align: center; padding: 1rem; margin-top: 2rem; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Star Earth Moves</h1>
+        <p>Gopalganj, Bihar | Heavy Machinery & Earthmoving Rental Services</p>
+    </header>
+    <div class="container">
+        <section class="hero">
+            <h2>गोपालगंज में बेस्ट एक्सकेवेटर और अर्थमूविंग सर्विस</h2>
+            <p>JCB, मिनी एक्सकेवेटर और हैवी मशीनों के किराए के लिए संपर्क करें।</p>
+            <a href="tel:+917260050689" class="btn-call">📞 अभी कॉल करें: 97152 27709</a>
+        </section>
+        <div class="section-wrapper">
+            <h2 class="section-title">हमारी सेवाएं (Our Services)</h2>
+            <div class="grid">
+                <div class="card">
+                    <h3>🚜 पोकलेन एवं मिनी एक्सकेवेटर</h3>
+                    <p>नाली खुदाई, नींव (Foundation), पोखरा/तालाब खुदाई और मिट्टी कटाई का काम।</p>
+                </div>
+                <div class="card">
+                    <h3>🏗️ बैकहो लोडर (JCB) सर्विस</h3>
+                    <p>साइट क्लीयरेंस, मिट्टी भराई, रोड वर्क और हैवी लोडिंग वर्क।</p>
+                </div>
+                <div class="card">
+                    <h3>🏚️ डिमोलिशन एवं साइट तैयारी</h3>
+                    <p>पुराने मकान/ढांचे को तोड़ने और मलबे की सफाई का काम तेजी से।</p>
+                </div>
+            </div>
+        </div>
+        <div class="section-wrapper">
+            <h2 class="section-title">संपर्क करें (Contact Us)</h2>
+            <div class="contact-box">
+                <p><strong>प्रोपराइटर:</strong> Star Earth Moves</p>
+                <p><strong>स्थान:</strong> गोपालगंज, बिहार (Gopalganj, Bihar)</p>
+                <p><strong>मोबाइल नंबर:</strong> <a href="tel:+919715227709">+91 97152 27709</a></p>
+            </div>
+        </div>
+    </div>
+    <a href="https://wa.me/919715227709?text=Hello%20Star%20Earth%20Moves,%20mujhe%20machine%20rental%20ke%20liye%20jaankari%20chahiye." class="whatsapp-float" target="_blank">💬 WhatsApp</a>
+    <footer>
+        <p>&copy; Star Earth Moves, Gopalganj.</p>
+    </footer>
+</body>
+</html>
